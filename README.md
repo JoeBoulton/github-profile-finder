@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Github profile finder web app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A small project to allow users to search for github users and view their information
 
 ## Available Scripts
 
